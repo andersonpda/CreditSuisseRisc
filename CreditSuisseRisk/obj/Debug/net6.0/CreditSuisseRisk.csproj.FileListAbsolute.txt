@@ -1,0 +1,15 @@
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\bin\Debug\net6.0\CreditSuisseRisk.exe
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\bin\Debug\net6.0\CreditSuisseRisk.deps.json
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\bin\Debug\net6.0\CreditSuisseRisk.runtimeconfig.json
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\bin\Debug\net6.0\CreditSuisseRisk.dll
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\bin\Debug\net6.0\CreditSuisseRisk.pdb
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.csproj.AssemblyReference.cache
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.AssemblyInfoInputs.cache
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.AssemblyInfo.cs
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.csproj.CoreCompileInputs.cache
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.dll
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\refint\CreditSuisseRisk.dll
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.pdb
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\CreditSuisseRisk.genruntimeconfig.cache
+C:\Users\ansu\Projects\CreditSuisseRisk\CreditSuisseRisk\obj\Debug\net6.0\ref\CreditSuisseRisk.dll
